@@ -190,6 +190,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
 keep_files:
   - CNAME
   - .nojekyll
@@ -200,8 +202,6 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
