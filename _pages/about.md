@@ -32,6 +32,6 @@ latest_posts:
 Welcome! I am a fourth-year PhD Student in Economics at the University of Lausanne (HEC Lausanne) under the supervision of 
 <a href='https://sites.google.com/site/benhimakenza/'>Prof. Kenza Benhima</a> and <a href='https://sites.google.com/site/simonscheidegger/home'>Prof. Simon Scheidegger</a>.
 
-I specialize in Computational Macroeconomics, Climate-Macro  and Macro-Finance. I specialize in using Deep Learning and advanced machine learning tools to solve and estimate dynamic economic models.
+I am interested in Computational Macroeconomics, Climate-Macro  and Macro-Finance. I specialize in using Deep Learning and advanced machine learning tools to solve and estimate dynamic economic models.
 
 I hold a MSc in International and Monetary Economics (MIME) from the University of Bern and completed the Swiss Program for Beginning Doctoral Students at the Study Centre Gerzensee.
