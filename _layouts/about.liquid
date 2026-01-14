@@ -45,10 +45,18 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="clearfix">
+      {{ content }}
+      {% if page.announcements and page.announcements.enabled and page.announcements.position == 'below_text' %}
+        <h2 style="margin-top: 2rem;">
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        </h2>
+        {% include news.liquid limit=true format='list' %}
+      {% endif %}
+    </div>
 
     <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
+    {% if page.announcements and page.announcements.enabled and page.announcements.position != 'below_text' %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>

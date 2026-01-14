@@ -1,9 +1,9 @@
 ---
 layout: post
-title: LSE
-date: 2026-01-09
+title: Bank al Maghrib
+date: 2025-11-16
 inline: true
 related_posts: false
 ---
 
-In spring 2026, I will be visiting the Grantham Institute at LSE on invitation by Prof. Frank Venmans.
+In November 2025, I visited the Bank al Maghrib in Rabat, Morocco to work on lending to SMEs in emerging markets.
